@@ -1,0 +1,2 @@
+Google - ceate react app in folder - https://stackoverflow.com/questions/55082584/how-to-create-a-react-app-directly-in-the-current-folder
+Google - how to install bootstrap in react - https://www.geeksforgeeks.org/how-to-install-bootstrap-in-react-js/
