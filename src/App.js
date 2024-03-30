@@ -1,11 +1,20 @@
-
+import React from 'react';
 import './App.css';
+import Navbar from './Navbar';
 
 function App() {
+
+  
   return (
-    <div className="App">
-     <h1>LaQuisha Cain!!!</h1>
-    </div>
+    <React.Fragment>
+      <div className="App">
+        <Navbar />
+        <div className='content'>
+          <h1>App Component</h1>
+        </div>
+      </div>
+      
+    </React.Fragment>
   );
 }
 
